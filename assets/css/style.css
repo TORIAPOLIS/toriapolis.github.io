@@ -236,18 +236,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .fix{
 	position:relative;
-	width:900px;
+	width:800px;
 	left:50%;
 	top:50%; 
-	margin-left:-350px; 
+	margin-left:-340px; 
 	margin-top:-300px;
 }
 
 .fix p{
-	margin-left:-100px;
-	margin-right: 100px;
-	padding-right:20px;
-}
+	margin-left:-95px;
+	margin-right: 35px;
+} 
 
 .graph{
 	position:relative;
@@ -259,4 +258,13 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+.grove{
+	position:relative;
+	width:700px;
+	left:50%;
+	top:50%; 
+	margin-left:-340px; 
+	margin-top:-300px;
+
+}
 
