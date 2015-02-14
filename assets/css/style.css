@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 #workwrap {	
 	background: url(../img/work.jpg) no-repeat center top;
 	margin-top: -70px;
-	padding-top: 250px;
+	padding-top: 220px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -221,8 +221,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
 /* Gallery */
 .gallery {
 	margin-top: 30px;
@@ -231,6 +229,9 @@ h1, h2, h3, h4, h5, h6 {
 .gallery img:hover {
 	opacity: 0.4;
 }
+
+
+
 
 /*Needed a quick fix to center my images on the project pages because this gurl's just tryna get her portfolio done in time */
 
