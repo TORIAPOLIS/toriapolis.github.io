@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 #headerwrap {
 	background: url(../img/back.jpg) no-repeat center top;
 	margin-top: -70px;
-	padding-top: 250px;
+	padding-top: 230px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
 	left:50%;
 	top:50%; 
 	margin-left:-340px; 
-	margin-top:-300px;
+	margin-top:-200px;
 
 }
 
