@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 	width:900px;
 	left:50%;
 	top:50%; 
-	margin-left:-300px; 
+	margin-left:-350px; 
 	margin-top:-300px;
 }
 
@@ -248,3 +248,15 @@ h1, h2, h3, h4, h5, h6 {
 	margin-right: 100px;
 	padding-right:20px;
 }
+
+.graph{
+	position:relative;
+	width:600px;
+	left:50%;
+	top:50%; 
+	margin-left:-300px; 
+	margin-top:-300px;
+
+}
+
+
