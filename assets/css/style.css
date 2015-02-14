@@ -231,3 +231,20 @@ h1, h2, h3, h4, h5, h6 {
 .gallery img:hover {
 	opacity: 0.4;
 }
+
+/*Needed a quick fix to center my images on the project pages because this gurl's just tryna get her portfolio done in time */
+
+.fix{
+	position:relative;
+	width:900px;
+	left:50%;
+	top:50%; 
+	margin-left:-300px; 
+	margin-top:-300px;
+}
+
+.fix p{
+	margin-left:-100px;
+	margin-right: 100px;
+	padding-right:20px;
+}
