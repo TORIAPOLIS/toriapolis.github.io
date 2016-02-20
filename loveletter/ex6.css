@@ -1,0 +1,109 @@
+/* MAD LIBS CSS by Victoria Yuen-Ruan */ 
+
+*{
+	margin:auto;
+	padding:0;
+}
+
+body{
+	width:1100px;
+	background-color:#e47272;
+	/* textbox color is #ededed */ 
+	/* font color is #414141 */
+}
+
+header{
+	font-family:Montserrat, arial, sans-serif;
+	font-size:3em;
+	color:#ededed;
+	text-align:center;
+
+	margin-top:30px;
+	letter-spacing:2px;
+}
+
+figure{
+	width:400px;
+	float:left;
+	margin-top:30px;
+	margin-left:-100px;
+}
+
+section{
+	width:400px;
+	float:left;
+	margin-top:30px;
+
+}
+
+#envelope{
+	width:560px; 
+	float:left;
+	display:inline-block;
+	margin-top:-733px;
+	margin-left:800px;
+}
+
+
+/* ----- FORM STYLING ------ */ 
+
+#entry{
+	 border:#ededed 3x solid;
+	 background-color:#ededed;
+	 padding:50px 40px;
+}
+
+form{
+	width:83%;
+	margin: 0 auto;
+}
+
+
+label{
+	font-family:"Open Sans", arial, sans-serif;
+	font-weight:lighter;
+
+	width:50%;
+	display:inline-block;
+	text-align:right;
+
+	margin-right:20px;
+
+} 
+
+input[type="text"]{
+	width:43%;
+	margin-top:-20px;
+	margin-left:400px;
+	margin-bottom:15px;
+	float:right;
+}
+
+
+/*  -----Submit and Reset Button Styles ------  */ 
+input{
+	/* aligns the submit and reset button */
+	margin-left:30px;
+
+}
+input[type="submit"], input[type="reset"] {
+	background-color:#414141;
+	color:#ededed;
+
+	font-family:Montserrat;
+	font-size:1em;
+
+	margin-top:30px;
+	padding:20px 30px;
+} 
+
+/* -----  LOVE LETTER OUTCOME STYLE  ---- */ 
+#loveletter{
+	width:100%;
+	background-color:#ededed;
+	border:#ededed 3px solid;
+	padding:25px 37px;
+	text-align:center;
+	font-family: Open Sans; 
+
+}
